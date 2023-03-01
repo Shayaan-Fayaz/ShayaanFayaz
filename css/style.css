@@ -43,6 +43,17 @@ thead{
     font-weight: bold;
 }
 
+.hate{
+    color: whitesmoke;
+    text-align: center;
+}
+
+.rule{
+    color: whitesmoke;
+    text-align: center;
+    font-size: large;
+}
+
 .connect{
     color: whitesmoke;
     text-align: center;
