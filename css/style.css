@@ -1,0 +1,55 @@
+html{
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background-color: #333;
+}
+
+.profile{
+    display: block;
+    margin: 5vw auto;
+    border-radius: 60%;
+}
+
+h1{
+    
+    /* padding: 20px; */
+    color: whitesmoke;
+    text-align: center;
+    
+}
+
+.intro{  
+    font-size: 22px;
+    color: whitesmoke;
+    text-align: center;
+    padding-bottom: 50px;
+    /* border-bottom: 2px solid whitesmoke; */
+}
+
+hr{
+    border: 1.5px solid whitesmoke;
+}
+
+table{
+    margin: 20px auto;
+    font-size: 20px;
+    color: whitesmoke;
+}
+
+thead{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.connect{
+    color: whitesmoke;
+    text-align: center;
+}
+
+.logo{
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
